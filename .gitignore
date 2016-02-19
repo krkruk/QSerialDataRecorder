@@ -1,0 +1,3 @@
+#ignore Qt Creator files
+*.user
+*.user*
